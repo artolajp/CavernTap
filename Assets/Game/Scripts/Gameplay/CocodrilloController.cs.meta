@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6f7a0c7bb5a89a84e901ca363ed09d9b
+timeCreated: 1475013633
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - frozenNormal: {fileID: 21300000, guid: 068148620024988428d8a80ce32fc55f, type: 3}
+  - frozenDefeat: {instanceID: 0}
+  - frozenOpen: {instanceID: 0}
+  - backgroundNormal: {instanceID: 0}
+  - backgroundFrozen: {instanceID: 0}
+  - mountainNormal: {instanceID: 0}
+  - mountainFrozen: {instanceID: 0}
+  - caveNormal: {instanceID: 0}
+  - caveFrozen: {instanceID: 0}
+  - background: {instanceID: 0}
+  - mountain: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

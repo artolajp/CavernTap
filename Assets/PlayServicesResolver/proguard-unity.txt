@@ -1,0 +1,8 @@
+-keep class bitter.jnibridge.* { *; }
+-keep class com.unity3d.* { *; }
+-keep class org.fmod.* { *; }
+-keep class org.apache.http.* { ; }
+-keep com.unity.purchasing.googleplay.* { *; }
+-dontwarn org.apache.http
+-dontwarn com.unity.purchasing.googleplay
+-dontobfuscate
